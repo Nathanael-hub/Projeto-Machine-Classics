@@ -1,0 +1,15 @@
+.img-default{
+    height: 232px;
+    object-fit: cover;
+}
+nav li a:hover{
+    background-color: black;
+    color: gold;
+}
+
+
+
+
+
+
+
