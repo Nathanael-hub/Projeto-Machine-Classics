@@ -7,6 +7,11 @@ nav li a:hover{
     color: gold;
 }
 
+.img-redm {
+    height: 570px;
+    object-fit: cover;
+}
+
 
 
 
